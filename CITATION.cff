@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Vikram2921"
+title: "DeskMind"
+version: 0.0.1
+abstract: "An all-in-one unified workspace for productivity, combining AI-powered note-taking, database management, and visual thinking tools."
+date-released: 2026-01-19
+url: "https://github.com/Vikram2921/DeskMind"
+keywords:
+  - "productivity"
+  - "knowledge management"
+  - "second brain"
+  - "ai"
+  - "notion-alternative"
+  - "workspace"
