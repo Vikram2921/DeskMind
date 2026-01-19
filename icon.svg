@@ -1,0 +1,41 @@
+<svg
+        width="128"
+        height="128"
+        viewBox="0 0 128 128"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- Background -->
+    <rect
+            x="4"
+            y="4"
+            width="120"
+            height="120"
+            rx="20"
+            fill="#FFFFFF"
+            stroke="#E5E7EB"
+            stroke-width="4"
+    />
+
+    <!-- Main D Shape -->
+    <path
+            d="M44 36H66C82 36 92 46 92 64C92 82 82 92 66 92H44V36Z"
+            fill="#111827"
+    />
+
+    <!-- Inner Mind Line -->
+    <path
+            d="M56 48V80"
+            stroke="#FFFFFF"
+            stroke-width="6"
+            stroke-linecap="round"
+    />
+
+    <!-- Desk Line -->
+    <path
+            d="M52 72H76"
+            stroke="#FFFFFF"
+            stroke-width="6"
+            stroke-linecap="round"
+    />
+</svg>
