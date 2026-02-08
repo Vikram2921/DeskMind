@@ -19,7 +19,7 @@
 
 ## 🚀 Intelligent Knowledge Synthesis
 
-### 🧠 The AI-First Engine
+### 🧠 The AI-First Engine (BYOK : Bring Your Own Key)
 *Beyond simple text generation—DeskMind is your cognitive partner for building a digital Second Brain.*
 - **Deep Brainstorming:** Transform a single spark into a structured project outline or research brief with integrated LLM support.
 - **Contextual Knowledge Blocks:** Smart AI blocks that summarize, translate, and expand your notes directly within the editor flow.
@@ -30,14 +30,6 @@
 - **Dynamic Content Canvas:** Seamlessly blend Markdown, code snippets, LaTeX math, and high-resolution media.
 - **Relational Databases:** Organize information with multi-dimensional views—**Kanban Boards**, **Timelines**, and **Relational Tables**.
 - **Interactive Callouts:** Beautifully styled blocks for highlighting critical insights and maintaining clarity in complex documents.
-
----
-
-## 🎨 Visual Thinking & Architecture
-
-| 🏗️ Infinity Whiteboard | 🕸️ Neural Mind Maps |
-| :--- | :--- |
-| **Boundless Creative Space** for free-form sketching, architectural diagrams, and visual planning. Ideal for visual thinkers. | **Structural Ideation** that maps connections between concepts. Transform complex topics into intuitive, branching neural maps. |
 
 ---
 
