@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Focus-Second--Brain-blueviolet?style=for-the-badge" alt="Second Brain">
   <img src="https://img.shields.io/badge/Tool-Unified--Workspace-blue?style=for-the-badge" alt="Unified Workspace">
   <img src="https://img.shields.io/badge/Category-Productivity-success?style=for-the-badge" alt="Productivity Category">
+  <img src="https://img.shields.io/github/downloads/Vikram2921/DeskMind/total?style=for-the-badge" alt="Total Downloads">
 </p>
 
 ---
